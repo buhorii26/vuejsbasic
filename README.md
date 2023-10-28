@@ -1,0 +1,1 @@
+ini adalah web statis hanya front end saja, hasil saya belajar menerapkan vuejsbasic front end studi kasus shopping cart
